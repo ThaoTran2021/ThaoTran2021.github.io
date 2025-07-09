@@ -1,0 +1,1028 @@
+
+
+<html>
+<head>
+<title>:: DOANHNGHIEPBINHTHUAN.VN - HIỆP HỘI DOANH NGHIỆP TỈNH BÌNH THUẬN ::</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel=stylesheet href=images/dnbt.css type=text/css>
+<script type="text/javascript" src="js/stmenu.js"></script>
+</head>
+<body>
+<table class="center" cellspacing="0" cellpadding="0">
+	<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Đăng ký hội viên</title>
+</head>
+
+<body>
+<tr>
+    <td rowspan="4" class="bgl"></td>
+    <td colspan="3"><embed src="images/header.swf" width="960" height="152"></embed></td>
+    <td rowspan="4" class="bgr"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class="bgc"><table width="100%" cellspacing="0" cellpadding="0">
+      <tr>
+        <td class="topbg1"></td>
+        <td class="topbg2">
+        	<ul class="topm">
+				<li class="m"><a href="dkhv.asp">Đăng ký hội viên</a></li>
+				<li class="m"><a href="dshv.asp">Danh sách hội viên</a></li>
+				<li class="m"><a href="default.asp">Trang chủ</a></li>
+			</ul>
+        </td>
+        <td class="topbg2">
+        <strong>Tìm kiếm</strong>&nbsp;&nbsp;<input class="comb" name="username" value="nhập từ khóa"/>
+          <img src="images/go.jpg" align="absmiddle"> </td>
+        <td class="topbg3"></td>
+      </tr>
+    </table></td>
+  </tr>
+
+</body>
+
+</html>
+
+  <tr>
+    <td class="leftpad">
+   			<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>New Page 1</title>
+</head>
+ 
+<body>
+<table width="206" cellspacing="0" cellpadding="0">
+      <tr>
+        <td class="lefttop"></td>
+      </tr>
+      <tr>
+        <td class="leftmbg">
+        <script type="text/javascript">
+                <!--
+					stm_bm(["menu23b3",900,"","",0,"","",0,0,250,0,1000,1,0,0,"","",0,0,1,2,"default","hand","",1,25],this);
+					stm_bp("p0",[1,4,0,0,0,0,8,5,100,"progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,enabled=0,Duration=0.40)",-2,"revealTrans(Transition=23,enabled=0,Duration=0.40)",23,70,0,0,"#e8e8e8","transparent","",0,0,0,"#00B55A"]);
+                 
+				stm_ai("p0i0",[0,"  Giới thiệu ","","",-1,-1,0,"info.asp?idc=1&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"",0,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd","bold 8pt Verdana","bold 8pt Verdana",0,0,"","","","",0,0,0],188,23);
+                stm_bpx("p1","p0",[1,2,0,0,0,0,8,0,100,"progid:DXImageTransform.Microsoft.Pixelate(MaxSquare=15,enabled=0,Duration=0.40)",-2,"revealTrans(Transition=23,enabled=0,Duration=0.40)",23,70,0,0,"#e8e8e8","#09bafe"]);
+              
+
+				stm_aix("p1i0","p0i0",[0,"»  Quyết định thành lập","","",-1,-1,0,"infotel.asp?Idsp=5&Nd=1","_self","","","","",8,8,0,"","",0,0,0,0,1,"",1,"#1a9bf0",0,"","",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#FFFFFF","bold 8pt Verdana","bold 8pt Verdana"],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);
+												
+
+				stm_aix("p1i1","p0i0",[0,"»  Lịch sử hình thành","","",-1,-1,0,"infotel.asp?Idsp=6&Nd=1","_self","","","","",8,8,0,"","",0,0,0,0,1,"",1,"#1a9bf0",0,"","",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#FFFFFF","bold 8pt Verdana","bold 8pt Verdana"],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);
+												
+
+				stm_aix("p1i2","p0i0",[0,"»  Điều lệ hội","","",-1,-1,0,"infotel.asp?Idsp=24&Nd=1","_self","","","","",8,8,0,"","",0,0,0,0,1,"",1,"#1a9bf0",0,"","",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#FFFFFF","bold 8pt Verdana","bold 8pt Verdana"],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);
+												
+
+				stm_aix("p1i3","p0i0",[0,"»  Ban chấp hành","","",-1,-1,0,"infotel.asp?Idsp=41&Nd=1","_self","","","","",8,8,0,"","",0,0,0,0,1,"",1,"#1a9bf0",0,"","",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#FFFFFF","bold 8pt Verdana","bold 8pt Verdana"],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);
+												
+												stm_ep();
+							
+							          
+                stm_aix("p0i1","p0i0",[0,"  Gia nhập hội","","",-1,-1,0,"info.asp?idc=4&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"#abe271",1,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd"],188,23);
+				stm_bpx("p2","p1",[]);
+                
+                stm_aix("p2i0","p1i0",[0,"»  Danh sách hội viên","","",-1,-1,0,"infotel.asp?Idsp=9&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p2i1","p1i0",[0,"»  Mẫu đăng ký gia nhập","","",-1,-1,0,"infotel.asp?Idsp=10&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p2i2","p1i0",[0,"»  Quyền lợi và nghĩa vụ","","",-1,-1,0,"infotel.asp?Idsp=11&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+										stm_ep();
+				          
+                stm_aix("p0i2","p0i1",[0,"  Hoạt động hội viên","","",-1,-1,0,"info.asp?idc=54&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"#abe271",1,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd"],188,23);
+				stm_bpx("p3","p2",[]);
+                
+                stm_aix("p3i0","p1i0",[0,"»  Tin Hội viên","","",-1,-1,0,"infotel.asp?Idsp=58&Nd=2","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p3i1","p1i0",[0,"»  Chia sẻ kinh nghiệm","","",-1,-1,0,"infotel.asp?Idsp=59&Nd=2","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p3i2","p1i0",[0,"»  Họp mặt Hội viên","","",-1,-1,0,"infotel.asp?Idsp=60&Nd=2","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+										stm_ep();
+				          
+                stm_aix("p0i3","p0i2",[0,"  Tin tức - Sự kiện","","",-1,-1,0,"info.asp?idc=3&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"#abe271",1,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd"],188,23);
+				stm_bpx("p4","p3",[]);
+                
+                stm_aix("p4i0","p1i0",[0,"»  Tin hoạt động","","",-1,-1,0,"infotel.asp?Idsp=69&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p4i1","p1i0",[0,"»  Tin trong tỉnh","","",-1,-1,0,"infotel.asp?Idsp=133&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p4i2","p1i0",[0,"»  Tin trong nước","","",-1,-1,0,"infotel.asp?Idsp=122&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p4i3","p1i0",[0,"»  Thời sự quốc tế","","",-1,-1,0,"infotel.asp?Idsp=124&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p4i4","p1i0",[0,"»  Hội thảo - Tọa đàm","","",-1,-1,0,"infotel.asp?Idsp=50&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p4i5","p1i0",[0,"»  Hoạt động xã hội","","",-1,-1,0,"infotel.asp?Idsp=51&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+										stm_ep();
+				          
+                stm_aix("p0i4","p0i3",[0,"  Doanh nhân","","",-1,-1,0,"info.asp?idc=18&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"#abe271",1,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd"],188,23);
+				stm_bpx("p5","p4",[]);
+                
+                stm_aix("p5i0","p1i0",[0,"»  Tôn vinh doanh nhân","","",-1,-1,0,"infotel.asp?Idsp=120&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p5i1","p1i0",[0,"»  Doanh nhân Bình Thuận","","",-1,-1,0,"infotel.asp?Idsp=121&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p5i2","p1i0",[0,"»  Doanh nhân toàn quốc","","",-1,-1,0,"infotel.asp?Idsp=20&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+										stm_ep();
+				          
+                stm_aix("p0i5","p0i4",[0,"  Kinh tế - Thương mại","","",-1,-1,0,"info.asp?idc=74&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"#abe271",1,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd"],188,23);
+				stm_bpx("p6","p5",[]);
+                
+                stm_aix("p6i0","p1i0",[0,"»  Tin kinh tế","","",-1,-1,0,"infotel.asp?Idsp=75&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p6i1","p1i0",[0,"»  Tin hợp tác","","",-1,-1,0,"infotel.asp?Idsp=83&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p6i2","p1i0",[0,"»  Tài chính","","",-1,-1,0,"infotel.asp?Idsp=76&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p6i3","p1i0",[0,"»  Thị trường","","",-1,-1,0,"infotel.asp?Idsp=82&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p6i4","p1i0",[0,"»  Doanh nghiệp","","",-1,-1,0,"infotel.asp?Idsp=106&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p6i5","p1i0",[0,"»  Đầu tư","","",-1,-1,0,"infotel.asp?Idsp=107&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+										stm_ep();
+				          
+                stm_aix("p0i6","p0i5",[0,"  Hoạt động hỗ trợ","","",-1,-1,0,"info.asp?idc=125&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"#abe271",1,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd"],188,23);
+				stm_bpx("p7","p6",[]);
+                
+                stm_aix("p7i0","p1i0",[0,"»  Đào tạo","","",-1,-1,0,"infotel.asp?Idsp=134&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p7i1","p1i0",[0,"»  Thông tin","","",-1,-1,0,"infotel.asp?Idsp=135&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p7i2","p1i0",[0,"»  Kiến thức kinh doanh","","",-1,-1,0,"infotel.asp?Idsp=136&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p7i3","p1i0",[0,"»  Giải đáp chính sách","","",-1,-1,0,"infotel.asp?Idsp=127&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p7i4","p1i0",[0,"»  Cải cách hành chính","","",-1,-1,0,"infotel.asp?Idsp=130&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p7i5","p1i0",[0,"»  Văn bản pháp lý","","",-1,-1,0,"infotel.asp?Idsp=131&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p7i6","p1i0",[0,"»  Hội nghị, Hội thảo, Tập huấn","","",-1,-1,0,"infotel.asp?Idsp=137&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+										stm_ep();
+				          
+                stm_aix("p0i7","p0i6",[0,"  Văn bản Hiệp Hội","","",-1,-1,0,"info.asp?idc=110&nd=1","_self","","","","",8,8,0,"","",5,5,0,0,1,"#abe271",1,"#abe271",1,"images/leftm1.jpg","images/leftm2.jpg",2,2,0,0,"#00cc00","#00cc00","#FFFFFF","#b9f5fd"],188,23);
+				stm_bpx("p8","p7",[]);
+                
+                stm_aix("p8i0","p1i0",[0,"»  Quyết định - Quy chế","","",-1,-1,0,"infotel.asp?Idsp=114&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p8i1","p1i0",[0,"»  Thông báo","","",-1,-1,0,"infotel.asp?Idsp=111&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p8i2","p1i0",[0,"»  Báo cáo","","",-1,-1,0,"infotel.asp?Idsp=112&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p8i3","p1i0",[0,"»  Chương trình - XTTM","","",-1,-1,0,"infotel.asp?Idsp=115&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p8i4","p1i0",[0,"»  Kế hoạch","","",-1,-1,0,"infotel.asp?Idsp=116&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+                stm_aix("p8i5","p1i0",[0,"»  Dự thảo","","",-1,-1,0,"infotel.asp?Idsp=138&Nd=1","_self","",""],188,23);
+				stm_ai("p1i1",[6,1,"#b9f5fd","",188,1,0]);               
+                
+										stm_ep();
+				
+
+                stm_aix("p0i10","p0i1",[0,"  Hình ảnh hoạt động","","",-1,-1,0,"album.asp","_self","","","","",8,8,0,"","",0,0],188,23);
+  				stm_aix("p0i11","p0i1",[0,"  Liên hệ","","",-1,-1,0,"gopy.asp","_self","","","","",8,8,0,"","",0,0],188,23);
+				stm_ep();
+				stm_ep();
+				stm_em();
+                //-->
+                </script>
+        
+        
+        
+        
+      
+  
+        </td>
+      </tr>
+      <tr>
+        <td class="leftm3"></td>
+      </tr>
+      <tr>
+        <td class="padlogo"><a href="http://www.doanhnghiepbinhthuan.vn/detail.asp?id=988&ig=9&nd=1"><img src="images/leftlogo1.jpg" border =0></a></td>
+      </tr>
+      <tr>
+        <td class="padlogo"><a href="album.asp"><img src="images/leftlogo2.jpg" border =0></a></td>
+      </tr>
+      <tr>
+        <td class="padlogo"><a href="default.asp"><img src="images/leftlogo4.jpg" border =0></a></td>
+      </tr>  
+      							
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="https://binhthuan.gov.vn/                                                                                                                                                                               "><div align =center><img border="0" src="hinh/UBNDBT.jpg                                                                                                                                                                                              " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="https://binhthuan.gdt.gov.vn/wps/portal                                                                                                                                                                 "><div align =center><img border="0" src="hinh/thuebt.png                                                                                                                                                                                              " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="https://vcci.com.vn                                                                                                                                                                                     "><div align =center><img border="0" src="hinh/VCCI-LKDNV_(1).jpg                                                                                                                                                                                      " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="http://xuctienbinhthuan.vn                                                                                                                                                                              "><div align =center><img border="0" src="hinh/nvav_1.png                                                                                                                                                                                              " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="http://www.phanthietgarment.com.vn                                                                                                                                                                      "><div align =center><img border="0" src="hinh/May PT doi Logo.jpg                                                                                                                                                                                     " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="http://minhtrang.binhthuan.vn                                                                                                                                                                           "><div align =center><img border="0" src="hinh/logo Minh Trang.jpg                                                                                                                                                                                     " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="http://www.co-opmart.com.vn/                                                                                                                                                                            "><div align =center><img border="0" src="hinh/Co-opmart.jpg                                                                                                                                                                                           " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="http://www.vietinbank.vn/web/home/vn/index.html                                                                                                                                                         "><div align =center><img border="0" src="hinh/Vietinbank.jpg                                                                                                                                                                                          " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="http://www.lamnghiepbinhthuan.com/                                                                                                                                                                      "><div align =center><img border="0" src="hinh/29_6_2010_14_57_10_1.JPG                                                                                                                                                                                " width="200"></div>  </a></td>
+      </tr>
+     							 
+   
+      <tr>
+        <td class="padlogo" align =center><a target="_blank" href="http://www.xosobinhthuan.com.vn                                                                                                                                                                         "><div align =center><img border="0" src="hinh/Cty TNHH MTV XSKT BiÃŒâ‚¬nh ThuÃƒÂ¢ÃŒÂ£n.jpg                                                                                                                                                            " width="200"></div>  </a></td>
+      </tr>
+     							      
+    
+    </table>
+</body>
+
+</html>
+    </td>
+    <td class="centpad">
+   			<div align="center">
+				<table border="0" width="504" id="table1" cellpadding="0" style="border-collapse: collapse" height="165">
+ 
+
+
+					<tr>
+						<td height="41" width="10" background="images/td1.jpg"></td>
+						<td height="41" width="622" background="images/td2.jpg" valign="bottom">
+						<font face="Arial" style="font-size: 12pt">
+						<b>
+						<font color=#D1160A>&nbsp;UBND tỉnh Bình Thuận Quyết định cho phép Hiệp hội Doanh nghiệp, thành lập Quỹ Doanh nhân vì cộng đồng. </font></b>
+						<hr color="#D1160A" size="1">
+						</td>
+						<td height="41" width="6" background="images/td3.jpg"></td>
+		
+		</tr>	
+		<tr>
+						<td height="124" width="637" colspan="3">
+						<div align="center">
+							<table border="0" width="98%" id="table2" height="117" cellpadding="0" style="border-collapse: collapse">
+								<tr>
+									
+									<td align =center><div align =justify> 
+									 <b>	Quỹ do Hiệp hội Doanh nghiệp Bình Thuận và các doanh nghiệp trên địa bàn tỉnh sáng lập, được Ủy ban nhân dân tỉnh Bình Thuận cho phép thành lập, nhằm mục đích vận động các doanh nghiệp hỗ trợ cho các hoạt động nhân đạo từ thiện và hoạt động vì cộng đồng như:	
+		</b></br></br><div align =center><img border="0" src=hinh/Document_0_13.JPG align='center' ></br>                                                                                                                                                                                                                                                                                                            </div></br><P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt; tab-stops: center 117.0pt 342.0pt 531.0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-style: italic"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:country-region w:st="on"><st1:place w:st="on">NAM</st1:place></st1:country-region><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt; tab-stops: center 117.0pt 342.0pt 531.0pt" class=MsoNormal align=center><B><U><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-style: italic"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Độc lập - Tự do - Hạnh phúc<o:p></o:p></FONT></FONT></SPAN></U></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt; tab-stops: center 117.0pt 342.0pt 531.0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-style: italic"><o:p><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;</FONT></o:p></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt; tab-stops: center 117.0pt 342.0pt 531.0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-style: italic"><o:p><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;</FONT></o:p></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>ĐIỀU LỆ<SPAN style="mso-spacerun: yes">&nbsp; </SPAN><o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>QŨY DOANH NHÂN BÌNH THUẬN VÌ CỘNG ĐỒNG<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:line style="Z-INDEX: 1; POSITION: absolute; TEXT-ALIGN: left; LEFT: 0px" id=_x0000_s1026 to="297pt,1.4pt" from="189pt,1.4pt"><FONT face="Tahoma, Arial, Helvetica, sans-serif"></FONT></v:line><B><I><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><o:p><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;</FONT></o:p></SPAN></I></B></P><BR style="mso-ignore: vglayout" clear=all>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><I><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>( kèm theo Quyết định số: 2740 /QĐ-UBND, ngày21 tháng12 năm 2011của<o:p></o:p></FONT></FONT></SPAN></I></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><I><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="mso-spacerun: yes">&nbsp;</SPAN>Chủ tịch Ủy ban nhân dân tỉnh Bình Thuận)<o:p></o:p></FONT></FONT></SPAN></I></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold"><o:p><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;</FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Chương I<o:p></o:p></FONT></FONT></SPAN></B></P>
+<H2 style="MARGIN: 0mm 0mm 0pt" align=center><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>NHỮNG QUY ĐỊNH CHUNG<o:p></o:p></FONT></FONT></SPAN></H2>
+<P style="MARGIN: 0mm 0mm 0pt" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><o:p><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;</FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; tab-stops: -72.0pt" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>Điều 1</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt">. Tên gọi – Trụ sở của Quỹ. <o:p></o:p></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; tab-stops: -90.0pt" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>Tên Tiếng Việt: <SPAN style="mso-bidi-font-weight: bold">QUỸ DOANH NHÂN BÌNH THUẬN VÌ CỘNG ĐỒNG<B><o:p></o:p></B></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; tab-stops: -90.0pt" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-fareast-language: ZH-TW"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>Tên tiếng anh<B> :<SPAN style="mso-spacerun: yes">&nbsp; </SPAN></B>BINHTHUAN OF COMMUNITY ENTREPRENEURS FUND <B><o:p></o:p></B></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; tab-stops: -63.0pt" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-fareast-language: ZH-TW"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>Tên Viết Tắt<SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><B>:<SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></B>CEFB<B><o:p></o:p></B></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Trụ sở đặt tại 282 Nguyễn Hội, Thành phố Phan Thiết.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Khi Thay đổi trụ sở, Quỹ phải thông báo cho cơ quan Nhà nước có thẩm quyền<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>theo quy định của Pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoBodyText><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Quỹ Doanh nhân vì Cộng đồng sử dụng biểu tượng của Hiệp hội Doanh nghiệp Bình Thuận làm biểu tượng của Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="MARGIN: 6pt 0mm" class=MsoBodyTextIndent><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Điều 2</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>. <SPAN style="mso-spacerun: yes">&nbsp;</SPAN><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Mục đích tổ chức và hoạt động của Quỹ.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 3pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><FONT size=2><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Quỹ</FONT></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: VI; mso-bidi-font-style: italic" lang=VI><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"> do Hiệp hội Doanh nghiệp</FONT> </SPAN></FONT></FONT><FONT face="Tahoma, Arial, Helvetica, sans-serif"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-bidi-font-style: italic"><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Bình Thuận</FONT></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: VI; mso-bidi-font-style: italic"><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"> </FONT><SPAN lang=VI><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">và các doanh</FONT> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">nghiệp</FONT></SPAN></SPAN></FONT><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-bidi-font-style: italic"> trên địa bàn tỉnh</SPAN></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: VI; mso-bidi-font-style: italic" lang=VI><FONT face="Tahoma, Arial, Helvetica, sans-serif"> </FONT><FONT face="Tahoma, Arial, Helvetica, sans-serif">sáng lập,</FONT><FONT face="Tahoma, Arial, Helvetica, sans-serif"> <FONT face="Tahoma, Arial, Helvetica, sans-serif">được Ủy ban nhân dân t</FONT></FONT></SPAN><FONT face="Tahoma, Arial, Helvetica, sans-serif"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-bidi-font-style: italic">ỉnh Bình Thuận</SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: VI; mso-bidi-font-style: italic" lang=VI> cho phép thành lập, nhằm</SPAN></FONT></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR; mso-bidi-font-style: italic" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"> mục đích vận</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>động các doanh nghiệp hỗ trợ cho các hoạt động nhân đạo từ thiện và hoạt động vì cộng đồng <FONT face="Tahoma, Arial, Helvetica, sans-serif">như</FONT></FONT></FONT></SPAN><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">: Hỗ trợ các trường hợp nghèo khó, đồng bào bị </FONT></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">lũ lụt, thiên tai</FONT>&nbsp;</SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>; </SPAN></FONT></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">bệnh tật hiểm</FONT> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">nghèo; tài trợ học bổng, đào tạo nhân tài góp phần phát triển xã hội</FONT></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">.</FONT> <o:p></o:p></SPAN></FONT></FONT></P>
+<P style="TEXT-INDENT: 0mm; MARGIN: 6pt 0mm" class=MsoBodyTextIndent><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR; mso-bidi-font-style: italic" lang=FR><o:p><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;</FONT></o:p></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 3pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>Điều 3</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>. <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Nguyên tắc tổ chức và hoạt động của Quỹ.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 3pt 0mm; tab-stops: list 36.0pt; mso-list: l1 level1 lfo1" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-fareast-font-family: ′Times New Roman′; mso-ansi-language: FR" lang=FR><SPAN style="mso-list: Ignore"><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1.<SPAN style="FONT: 7pt ′Times New Roman′">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></FONT></FONT></SPAN></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Quỹ hoạt động không vì mục đích lợi nhuận, theo nguyên tắc tự nguyện, tự tạo vốn,</FONT> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">vận động tài trợ và đóng góp hoàn toàn tự nguyện của các tổ chức, cá nhân trong và ngoài</FONT> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">nước có tấm lòng nhân ái, từ thiện, tương thân, tương ái và đóng góp của các sáng lập viên để</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>hoạt động theo mục tiêu của Quỹ.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 3pt 0mm; tab-stops: list 36.0pt; mso-list: l1 level1 lfo1" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-fareast-font-family: ′Times New Roman′; mso-ansi-language: FR" lang=FR><SPAN style="mso-list: Ignore">2.<SPAN style="FONT: 7pt ′Times New Roman′">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Quỹ tự trang trãi chi phí cho hoạt động xã hội, từ thiện và chịu trách nhiệm bằng tài</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>sản của mình, không có nguồn ngân sách từ Nhà nước.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 3pt 0mm; tab-stops: list 36.0pt; mso-list: l1 level1 lfo1" class=MsoNormal><FONT size=2><FONT face="Tahoma, Arial, Helvetica, sans-serif"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-fareast-font-family: ′Times New Roman′; mso-ansi-language: FR" lang=FR><SPAN style="mso-list: Ignore">3.<SPAN style="FONT: 7pt ′Times New Roman′">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Quỹ phải thực hiện công khai, minh bạch mọi khoản thu,</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>chi theo quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<OL style="MARGIN-TOP: 0mm" type=1 start=4>
+<LI style="TEXT-ALIGN: justify; MARGIN: 3pt 0mm; tab-stops: list 36.0pt; mso-list: l1 level1 lfo1" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Các hành vi sau đây bị nghiêm cấm:<o:p></o:p></FONT></FONT></SPAN></LI></OL>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 3pt 0mm 3pt 36pt; tab-stops: list 36.0pt; mso-list: l0 level1 lfo2" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-fareast-font-family: ′Times New Roman′; mso-ansi-language: FR" lang=FR><SPAN style="mso-list: Ignore">-<SPAN style="FONT: 7pt ′Times New Roman′">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Lợi dụng việc thành lập</FONT> <FONT size=2><FONT face="Tahoma, Arial, Helvetica, sans-serif">Quỹ nhằm tư lợi, hoạt động bất hợp pháp;<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 3pt 0mm 3pt 36pt; tab-stops: list 36.0pt; mso-list: l0 level1 lfo2" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-fareast-font-family: ′Times New Roman′; mso-ansi-language: FR" lang=FR><SPAN style="mso-list: Ignore">-<SPAN style="FONT: 7pt ′Times New Roman′">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Xâm hại đạo đức xã hội,</FONT><FONT size=2> <FONT size=2>thuần phong, mỹ tục,</FONT> <FONT size=2>truyền thống và bản sắc</FONT> <FONT size=2>dân tộc&nbsp;;<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 3pt 0mm 3pt 36pt; tab-stops: list 36.0pt; mso-list: l0 level1 lfo2" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-fareast-font-family: ′Times New Roman′; mso-ansi-language: FR" lang=FR><SPAN style="mso-list: Ignore">-<SPAN style="FONT: 7pt ′Times New Roman′">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp; </FONT></SPAN></SPAN></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Làm giả, tẩy xóa, chuyển nhượng, cho thuê, cho mượn giấy phép thành lập Quỹ Quỹ</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>dưới bất kỳ hình thức nào;<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 3pt 0mm 3pt 36pt; tab-stops: list 36.0pt; mso-list: l0 level1 lfo2" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-fareast-font-family: ′Times New Roman′; mso-ansi-language: FR" lang=FR><SPAN style="mso-list: Ignore">-<SPAN style="FONT: 7pt ′Times New Roman′">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN></SPAN></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Các hành vi rửa tiền,</FONT><FONT size=2> <FONT size=2>tài trợ khủng</FONT> <FONT size=2>bố và các hoạt động trái pháp luật.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<OL style="MARGIN-TOP: 0mm" type=1 start=5>
+<LI style="TEXT-ALIGN: justify; MARGIN: 3pt 0mm; tab-stops: list 36.0pt; mso-list: l1 level1 lfo1" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Quỹ có tư cách pháp nhân, có con dấu riêng và được mở tài khoản riêng theo quy định hiện hành của pháp luật;<o:p></o:p></FONT></FONT></SPAN> 
+<LI style="TEXT-ALIGN: justify; MARGIN: 3pt 0mm; tab-stops: list 36.0pt; mso-list: l1 level1 lfo1" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Quỹ hoạt động theo Giấy phép thành lập và công nhận Điều lệ Quỹ của UBND tỉnh và tuân thủ các quy định khác của Pháp luật có liên quan.<o:p></o:p></FONT></FONT></SPAN></LI></OL>
+<P style="TEXT-ALIGN: justify; MARGIN: 3pt 0mm 3pt 18pt" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Điều 4</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>. <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Phạm vi hoạt động.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 3pt 0mm 3pt 18pt" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Quỹ hoạt động trong phạm vi Tỉnh Bình Thuận.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 3pt 0mm 3pt 18pt" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Chương II<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 3pt 0mm 3pt 18pt" class=MsoNormal align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>NHIỆM VỤ VÀ QUYỀN HẠN CỦA QUỸ<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="MARGIN: 3pt 0mm 3pt 18pt" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp; Điều 5</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>. <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Nhiệm vụ và quyền hạn của Quỹ.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Tổ chức, hoạt động theo Điều lệ đã được công nhận và các quy định của pháp luật có liên quan.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Tổ chức vận động và tiếp nhận các nguồn tài trợ hợp pháp về tài chính, vật chất của các tổ chức, cá nhân trong và ngoài nước theo quy định của Pháp luật để tiến hành tài trợ cho các đối tượng theo mục đích hoạt động của Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Trong quá trình hoạt động, quỹ hoạt động thuộc lĩnh vực nào phải chịu sự quản lý nhà nưóc của cơ quan quản lý nhà nước về ngành, lĩnh vực đó.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>4. Thực hiện tài trợ đúng theo sự ủy quyền của cá nhân, tổ chức đã uỷ quyền và đúng tôn chỉ, mục đích của quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>5. Toàn bộ tiền và tài sản huy động vào quỹ phải sử dụng đúng mục đích, đối tượng:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>a) Đối với khoản tài trợ, quyên góp, ủng hộ khắc phục hậu quả lũ lụt, thiên tai, cứu trợ khẩn cấp phải thực hiện đầy đủ 100% ngay sau khi nhận được tiền và tài sản;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>b) Đối với các khoản tài trợ có mục đích, mục tiêu phải thực hiện đúng theo yêu cầu của nhà tài trợ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>c) Đối với nguồn huy động không thuộc khoản a, b Điều này thì phải đảm bảo giải ngân tối thiểu 70% (bảy mươi phần trăm) nguồn vốn huy động được trong năm tài chính.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>6. Lưu trữ và công khai hồ sơ, các chứng từ, tài liệu về tài sản, tài chính của quỹ; nghị quyết, biên bản về các hoạt động của quỹ theo quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>7. Sử dụng tài sản, tài chính theo đúng tôn chỉ, mục đích của quỹ; nộp thuế, phí, lệ phí và thực hiện chế độ kế toán, kiểm toán, thống kê theo quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>8. Được quyền khiếu nại, tố cáo theo quy định của pháp luật và chịu sự thanh tra, kiểm tra, giám sát của cơ quan nhà nước, của tổ chức, cá nhân tài trợ và của cộng đồng theo quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>9. Báo cáo kết quả hoạt động định kỳ hàng năm với Ủy ban nhân dân Tỉnh, Sở Nội vụ, Sở Tài chính, Sở Lao động – Thương binh và Xã hội. Quỹ phải thực hiện công khai mọi khoản thu, chi theo quy định của Pháp luật về công khai tài chính.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 18pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>10. Thực hiện các quyền và nghĩa vụ khác theo quy định của pháp luật.<SPAN style="mso-bidi-font-weight: bold"><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<H2 style="MARGIN: 0mm 0mm 0pt" align=center><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>CHƯƠNG III<o:p></o:p></FONT></FONT></SPAN></H2>
+<P style="TEXT-ALIGN: center; TEXT-INDENT: 0mm; MARGIN: 0mm 0mm 0pt" class=MsoBodyTextIndent align=center><B style="mso-bidi-font-weight: normal"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>TỔ CHỨC VÀ HOẠT ĐỘNG CỦA QUỸ<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>Điều 6.</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><SPAN style="mso-spacerun: yes">&nbsp; </SPAN>Cơ cấu tổ chức Quỹ.<o:p></o:p></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Cơ cấu tổ chức Quỹ bao gồm&nbsp;:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Hội đồng quản lý Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Giám đốc Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Ban kiểm soát Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>Điều 7</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR>. Hội đồng quản lý quỹ.<B><o:p></o:p></B></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Hội đồng quản lý quỹ có tối thiểu 3 (ba) thành viên với nhiệm kỳ không quá năm (5) năm do các sáng lập viên bầu ra. Hội đồng quản lý quỹ gồm Chủ tịch, Phó Chủ tịch và các thành viên. Chủ tịch Hội đồng quản lý Quỹ do các thành viên Hội đồng quản lý Quỹ bầu với số phiếu quá nữa số thành viên đồng ý.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Hội đồng quản lý Quỹ là cơ quan có thẩm quyền cao nhất và sẽ quyết định tất cả các vấn đề liên quan đến Quỹ, có các quyền và nghĩa vụ sau&nbsp;:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>a) Thông qua phương hướng hoạt động của Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>b) Ban hành các quy định về quản lý, sử dụng nguồn thu của Quỹ; <o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>c) Phê duyệt định mức chi tiêu cho công tác quản lý quỹ, kế hoạch tài chính, báo cáo quyết toán của Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>d) Quyết định bổ nhiệm, bãi nhiệm Giám đốc, Kế toán trưởng của Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>đ) Quyết định cơ cấu tổ chức Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>e) Đề xuất những thay đổi về giấy phép thành lập và Điều lệ quỹ với cơ quan nhà nước có thẩm quyền;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>g) Quyết định những vấn đề khác theo Điều lệ Quỹ và quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Hội đồng quản lý Quỹ họp định kỳ 06 tháng / lần. Nếu có vấn đề phát sinh, bất cứ thành viên nào trong Hội đồng Quản lý Quỹ cũng có thể đề xuất Chủ tịch Hội đồng Quản lý Quỹ triệu tập họp Hội đồng bằng cách gửi thư thông báo trước ít nhất một tuần cho các thành viên còn lại. Cuộc họp được xác định là hợp lệ khi có hơn ½ số thành viên tham gia. Quyết định của Hội đồng Quản lý Quỹ được thông qua khi có ít nhất 2/3 số thành viên tán thành. Trong trường hợp số thành viên có mặt tại cuộc họp không đầy đủ, người chủ trì cuộc họp Hội đồng Quản lý Quỹ sẽ xin ý kiến bằng văn bản, ý kiến này cũng có giá trị<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>như sự có mặt của thành viên đó tại cuộc họp.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm" class=n-dieund><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Điều 8. </SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR>Nguyên tắc hoạt động của quỹ.<B><o:p></o:p></B></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Quỹ thành lập và hoạt động không vì lợi nhuận.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Quỹ hoạt động theo nguyên tắc tự nguyện, tự tạo vốn, tự trang trải và tự chịu trách nhiệm trước pháp luật bằng tài sản của mình.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Quỹ hoạt động theo Điều lệ được cơ quan nhà nước có thẩm quyền công nhận, các quy định của Nghị định 148/NĐ – CP ngày 25/9/2007 của Chính phủ và các quy định khác của pháp luật liên quan.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>4. Quỹ phải thực hiện mọi khoản thu, chi công khai, minh bạch về tài chính, tài sản theo quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Điều 9.</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Chủ tịch, Phó Chủ tịch Hội đồng quản lý Quỹ.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Chủ tịch, Phó Chủ tịch Hội đồng quản lý quỹ là công dân Việt Nam và do các thành viên Hội đồng quản lý Quỹ bầu với số phiếu quá nửa số thành viên; nhiệm kỳ Chủ tịch hội đồng quản lý Quỹ cùng nhiệm kỳ Hội đồng quản lý Quỹ. <o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Trong trường hợp người nước ngoài có nhiều đóng góp cho hoạt động Quỹ, được các thành viên Hội đồng Quản lý Quỹ nhất trí với số phiếu quá bán, được tôn vinh làm Chủ tịch danh dự của Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. <SPAN style="mso-spacerun: yes">&nbsp;</SPAN>Nhiệm vụ của Chủ tịch Hội đồng quản lý Quỹ:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoBodyText><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>a) Triệu tập và chủ trì các cuộc họp của Hội đồng Quản lý Quỹ để giải quyết các công việc trong quá trình hoạt động của Quỹ, điều hành việc triển khai Nghị quyết các cuộc họp của Hội đồng.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoBodyText><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>b)<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>Giám sát, đôn đốc việc thực hiện Nghị quyết của Hội đồng, bổ nhiệm, bãi miễn nhân sự chủ chốt của Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoBodyText><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. <SPAN style="mso-bidi-font-weight: bold">Nhiệm vụ của Phó Chủ tịch Hội đồng quản lý Quỹ:</SPAN><o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoBodyText><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>a) Phó Chủ tịch thực hiện các nhiệm vụ theo sự phân công của Chủ tịch và chịu trách nhiệm trước Chủ tịch trong việc hoàn thành các công việc theo sự phân công. <o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoBodyText><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>b) Phó Chủ tịch được Chủ tịch ủy quyền bằng văn bản thay mặt Chủ tịch giải quyết công việc khi Chủ tịch đi vắng.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Tahoma, Arial, Helvetica, sans-serif">Điều 10.</FONT> </SPAN></B></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Giám đốc</FONT><FONT size=2> <FONT size=2>quỹ và các bộ</FONT> <FONT size=2>phận chức năng.<B><o:p></o:p></B></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Giám đốc quỹ là công dân Việt Nam và do Chủ tịch Hội đồng quản lý quỹ bổ nhiệm theo quyết định của Hội đồng quản lý Quỹ; nhiệm kỳ Giám đốc quỹ không quá 5 (năm) năm. Giám đốc quỹ là người đại diện trước pháp luật của quỹ, chịu trách nhiệm về mọi hoạt động của Quỹ. <o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Giám đốc quỹ là người đại diện trước pháp luật và chịu trách nhiệm điều hành mọi hoạt động của Quỹ , thực hiện chức năng quản lý<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>của mình theo các chính sách do Hội đồng Quản lý Quỹ quy định.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Nhiệm vụ của Giám đốc Quỹ.<B><o:p></o:p></B></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>a) <SPAN style="mso-spacerun: yes">&nbsp;</SPAN>Chịu trách nhiệm trước Hội đồng Quản lý Quỹ về toàn bộ hoạt động của Quỹ&nbsp;;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>b) Điều hành công việc hàng ngày của Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>c) Ký các văn bản pháp lý trong phạm vi trách nhiệm của mình và chịu trách nhiệm cho các Quyết định của mình&nbsp;;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>d) Báo cáo định kỳ cho Hội đồng Quản lý Quỹ và cơ quan cấp phép thành lập Quỹ về tình hình hoạt động của Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>đ) Chịu trách nhiệm quản lý tài sản của quỹ theo Điều lệ quỹ và các quy định của pháp luật về quản lý tài chính, tài sản.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>e) Đề nghị Chủ tịch Hội đồng quản lý quỹ bổ nhiệm Phó Giám đốc và lãnh đạo các đơn vị trực thuộc (nếu có).<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>4. Giúp việc cho Giám đốc có 01 hoặc 02 phó Giám đốc, Kế toán trưởng. Việc bổ nhiệm các chức danh trên sẽ do Hội đồng Quản lý Quỹ bổ nhiệm theo đề nghị của Giám đốc Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp; Điều 11.</FONT> </SPAN></B></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Ban Kiểm</FONT><FONT size=2> <FONT size=2>soát Quỹ.<B><o:p></o:p></B></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Ban kiểm soát có ít nhất ba (03) thành viên gồm&nbsp;: Trưởng ban, Phó Trưởng ban và Ủy viên với nhiệm kỳ cùng với nhiệm kỳ của Hội đồng Quản lý Quỹ. Chủ tịch Hội đồng quản lý Quỹ thành lập Ban kiểm soát và bổ nhiệm các thành viên theo đề nghị của Hội đồng Quản lý Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Ban kiểm soát có nhiệm vụ Kiểm tra và giám sát hoạt động của Quỹ theo Điều lệ và quy định của Pháp luật&nbsp;;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Ban kiểm soát hoạt động độc lập và có các nhiệm vụ sau&nbsp;:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>a) Kiểm tra và giám sát hoạt động của Quỹ theo Điều lệ và quy định của Pháp luật&nbsp;;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>b) Báo cáo và đề xuất Hội đồng Quản lý Quỹ về kết quả kiếm soát các hoạt động và tình hình tài chính của Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Điều 12. </FONT></SPAN></B></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Nhân sự</FONT><FONT size=2> <FONT size=2>khác.<B><o:p></o:p></B></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Tùy theo quy mô phát triển của Quỹ, Giám đốc quỹ sẽ đề nghị Hội đồng Quản lý Quỹ bổ nhiệm các nhân sự vào cơ quan điều hành Quỹ theo nguyên tắc gọn nhẹ, hoạt động có hiệu quả, tiết kiệm chi phí.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Tất cả nhân sự từ Giám đốc Quỹ đến các nhân viên hành chính đều thức hiện theo chế độ hợp đồng lao động. Chế độ tiền lương theo thõa thuận và do Hội dồng Quản lý Quỹ Quyết định.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt; punctuation-wrap: simple" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>CHƯƠNG IV<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm -18.05pt 0pt 0mm" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>TÀI CHÍNH CỦA QUỸ<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp; Điều 13. </FONT></SPAN></B></FONT></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Nguồn thu của quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Nguồn vốn của Quỹ được thu theo đúng quy định của Pháp luật. Quỹ không nhận những khoản tiền không rõ nguồn gốc. Nguồn thu của Quỹ gồm có&nbsp;:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Đóng góp ban đầu của các sáng lập viên&nbsp;;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Đóng góp tự nguyện, tài trợ hợp pháp của cá nhân, tổ chức ở trong nước và nước ngoài.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Thu từ lãi xuất tiền gửi của Quỹ vào ngân hàng,<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>hoặc <SPAN style="mso-spacerun: yes">&nbsp;</SPAN>từ các hoạt động gây quỹ theo quy định hiện hành.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>4. Các khoản thu hợp pháp từ các hoạt động khác theo quy định của Pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Các khoản thu trên được quản lý theo Quy chế quản lý tài chính tại </FONT></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Quyết định số</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>10/2008/QĐ-BTC ngày 12/02/2008 về việc ban hành quy chế quản lý tài chính Quỹ xã hội, Quỹ từ thiện.<SPAN style="mso-bidi-font-weight: bold"><o:p></o:p></SPAN></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Điều 14.</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Các khoản chi của Quỹ.</FONT><B> <o:p></o:p></B></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Quỹ được sử dụng cho các sử dụng sau:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>1.</SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Tham gia ủng hộ các Chương trình Kinh tế - Xã hội do Uỷ Ban Mặt Trận Tổ Quốc</FONT> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Việt Nam tỉnh phát động và các Chương trình xóa đói, giảm nghèo, từ thiện do các đơn vị</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>thông tin đại chúng tổ chức, các chương trình do các địa phương kêu gọi ủng hộ.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Ủng hộ và tham gia các Chương trình nghĩa tình biên giới.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Tài trợ đào tạo nhân tài; gia đình khó khăn hiếu học; hỗ trợ giúp đỡ bệnh nhân bệnh tật hiểm nghèo... thông qua các chương trình phối hợp với các trung tâm bệnh viện, Hội chữ Thập đỏ tỉnh.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>4. Tài trợ học sinh, sinh viên nghèo vượt khó, Quỹ tài năng trẻ ( bao gồm sinh viên các trường Đại học tốt nghiệp loại ưu, các tân thủ khoa đại học có hoàn cảnh khó khăn. Bằng hình thức vận động doanh nghiệp tài trợ suốt 4-5 năm đại học và giới thiệu việc làm khi tốt nghiệp) bằng cách liên kết với các trường tiểu học, trung học và đại học, các Quỹ khuyến học...<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>5. Ủng hộ lũ lụt, thiên tai, Ủng hộ Quỹ nạn nhân chất độc da cam/dioxin thông qua phối hợp với Ban cứu trợ phòng chống lụt bão Trung ương và địa phương và Hội nạn nhân chất độc da cam/dioxin tỉnh.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>6. Tài trợ theo sự ủy nhiệm của cá nhân, tổ chức và thực hiện các dự án tài trợ có địa chỉ theo quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR>7. <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Chi cho hoạt động quản lý Quỹ.</FONT></SPAN><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: NL" lang=NL><o:p></o:p></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=NL><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>Điều 15</SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR>. <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Công tác kế toán, kiểm toán, thống kê.<B><o:p></o:p></B></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Quỹ phải tổ chức và thực hiện công tác kế toán, kiểm toán, thống kê theo quy định của Pháp luật, chấp hành các chế độ, quy định về hóa đơn, chứng từ kế toán:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Mở sổ ghi đầy đủ danh sách các tổ chức, cá nhân đóng góp, tài trợ và danh sách những đối tượng được tài trợ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>3. Lập và gửi đầy đủ, đúng thời hạn các báo cáo tài chính và quyết toán thu, chi hàng năm cho cơ quan tài chính cùng cấp có thẩm quyền cho phép thành lập;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>4. Ban kiểm soát Quỹ có trách nhiệm kiểm tra, giám sát hoạt động của Quỹ và báo cáo hội đồng quản lý Quỹ tình hình tài chính của Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>5. Hội đồng quản lý Quỹ có trách nhiệm quản lý các hoạt động của Quỹ, chuẩn uy các kế hoạch tài chính và thẩm tra, phê duyệt báo cáo quyết toán của Quỹ;<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>6. Thường trực Hội đồng Quản lý Quỹ và Giám đốc Quỹ có trách nhiệm công bố công khai các nội dung:<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>- Danh sách và mức đóng góp, tài trợ của các tổ chức, cá nhân đã đóng góp, tài trợ cho Quỹ.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>- Báo cáo tài chính hàng quý và Quyết toán năm của Quỹ theo từng nội dung thu-chi.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>7. Hàng năm, Quỹ thuê kiểm toán độc lập để kiểm toán tình hình thu – chi tài chính của Quỹ (nếu cần).<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT size=2><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"> Điều 16.</FONT> </SPAN></B></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="times new roman, times, serif"><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Nguyên tắc vận động</FONT> </FONT><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>quyên góp, vận động tài trợ.<o:p></o:p></FONT></FONT></SPAN></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>1. Quỹ được vận động quyên góp, vận động tài trợ trong nước và ở nước ngoài nhằm thực hiện mục tiêu hoạt động theo quy định của Điều lệ quỹ và&nbsp;theo quy định của pháp luật.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>2. Đối với các cuộc vận động quyên góp, vận động tài trợ ở nước ngoài,&nbsp; trong phạm vi cả nước hoặc tỉnh, thành phố trực thuộc Trung ương phải có đề án và được cơ quan quản lý nhà nước có thẩm quyền cho phép thành lập quỹ đồng ý bằng văn bản.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT size=2><FONT face="Tahoma, Arial, Helvetica, sans-serif"><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR>3. <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Đối với các cuộc vận động quyên góp, vận động tài trợ giải quyết hậu quả thiên tai,</FONT> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">bão lụ</FONT></SPAN><SPAN style="LAYOUT-GRID-MODE: line; FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">t, cứu trợ khẩn cấp do Chủ tịch Hội đồng quản lý quỹ quyết định và phải báo cáo các</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>cơ quan nhà nước có thẩm quyền.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>CHƯƠNG V<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: center; MARGIN: 0mm 0mm 0pt" class=MsoNormal align=center><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>CÁC QUY ĐỊNH KHÁC<o:p></o:p></FONT></FONT></SPAN></B></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm" class=MsoNormal><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">&nbsp; Điều 17.</FONT> </SPAN></B></FONT><FONT face="times new roman, times, serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Xác nhập, hợp nhất, chia, tách, giải thể, đình chỉ, tạm đình chỉ hoạt động, xử</FONT><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2> lý tài sản khi giải thể của Quỹ đổi tên Quỹ.<B><o:p></o:p></B></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">Việc xác nhập, hợp nhất, chia, tách, giải thể, đình chỉ, tạm đình chỉ hoạt động, xử lý</FONT> <FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif">tài sản khi giải thể Quỹ, đổi tên Quỹ tuân</FONT></SPAN><SPAN style="LAYOUT-GRID-MODE: line; FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><FONT size=2 face="Tahoma, Arial, Helvetica, sans-serif"> theo quy định tại Nghị định 148/NĐ – CP ngày</FONT> <FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>25/9/2007 của Chính phủ và các quy định của pháp luật khác liên quan.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: -72pt; MARGIN: 6pt 0mm 6pt 72pt" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR><SPAN style="mso-spacerun: yes">&nbsp;<FONT face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT size=2>&nbsp;&nbsp; </FONT></FONT></SPAN><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Điều 18.</FONT> </FONT></SPAN></B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Bổ sung,</FONT> <FONT size=2>sửa đổi Điều lệ quỹ.<B><o:p></o:p></B></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; TEXT-INDENT: 36pt; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Trong quá trình hoạt động Quỹ, Giám đốc Quỹ có trách nhiệm theo dõi và đề xuất Chủ tịch Hội đồng Quản lý Quỹ việc sửa đổi, bổ sung Điều lệ cho phù hợp tình hình hoạt động của Quỹ nhưng phải được 2/3 thành viên Hội đồng Quản lý quỹ tán thành trước khi trình cấp có thẩm quyền xem xét và chỉ khi được phê duyệt mới có giá trị thi hành.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><B><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-ansi-language: FR" lang=FR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Tahoma, Arial, Helvetica, sans-serif">&nbsp;<FONT size=2>&nbsp; Điều 19.</FONT></FONT> </SPAN></B></FONT><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2>Hiệu lực</FONT><FONT size=2> <FONT size=2>thi hành.<o:p></o:p></FONT></FONT></SPAN></FONT></FONT></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>Điều lệ này gồm 5 chương, 19 Điều có hiệu lực thi hành kể từ ngày được Chủ tịch UBND tỉnh ra Quyết định cấp Giấy phép thành lập và công nhận Điều lệ Quỹ./.<o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><o:p></o:p></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: justify; MARGIN: 6pt 0mm; punctuation-wrap: simple" class=MsoNormal><SPAN style="FONT-FAMILY: ′Times New Roman′; FONT-SIZE: 11pt; mso-bidi-font-weight: bold; mso-ansi-language: FR" lang=FR><FONT face="Tahoma, Arial, Helvetica, sans-serif"><FONT size=2><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><SPAN style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN><B>QUỸ DOANH NHÂN BÌNH THUẬN VÌ CỘNG ĐỒNG<o:p></o:p></B></FONT></FONT></SPAN></P></div>
+
+									</td>
+								</tr>
+								<tr>
+								<td height =5>
+								
+								</td>
+								</tr>
+								<tr>
+								<td>
+								<hr color =#CCCCCC size =1 width =95% align =left>
+								</td>
+								</tr>
+								
+								<tr>
+								<td height="35">
+								<font color="#D1160A" style="font-size: 13pt"><b>Các Tin khác </b></font><font color="#0082BF">
+								</font>
+								</td>
+								</tr>
+								
+									  					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=4693&ig=111&nd=1"><span style="text-decoration: none">HIỆP HỘI DOANH NGHIỆP TỈNH BÌNH THUẬN CHÚC MỪNG NĂM MỚI - XUÂN ẤT TỴ 2025&nbsp;(24/01/2025)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=3624&ig=111&nd=1"><span style="text-decoration: none">V/v kêu gọi tài trợ máy vi tính cho Trường học &nbsp;(14/08/2023)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=2593&ig=111&nd=1"><span style="text-decoration: none">Hưởng ứng Năm Du lịch quốc gia 2023 "Bình Thuận - Hội tụ xanh".&nbsp;(21/02/2023)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=1504&ig=111&nd=1"><span style="text-decoration: none">Thư kêu gọi tham gia ủng hộ Miền Trung bị thiệt hại do mưa lũ&nbsp;(22/10/2020)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=1487&ig=111&nd=1"><span style="text-decoration: none">Mời Qúy Doanh nghiệp đăng ký tham dự Hội thảo Khoa học&nbsp;(17/06/2020)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=1484&ig=111&nd=1"><span style="text-decoration: none">Mời Doanh nghiệp đăng ký tham dự Hội thảo&nbsp;(25/05/2020)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=1468&ig=111&nd=1"><span style="text-decoration: none">Ban chấp hành Hiệp hội Doanh nghiệp tỉnh Bình Thuận - Chúc mừng năm mới Xuân Canh Tý 2020&nbsp;(17/01/2020)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=1460&ig=138&nd=1"><span style="text-decoration: none">Dự thảo Nghị quyết về chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp, nông thôn trên địa bàn tỉnh Bình Thuận&nbsp;(04/12/2019)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=1426&ig=111&nd=1"><span style="text-decoration: none">Thông báo chức danh Tổng Thư ký - Thường trực Hiệp hội&nbsp;(06/05/2019)</span></a></td>
+								</tr>
+								 					
+								<tr>
+								<td  height=20>
+								&nbsp;
+									<img border="0" src="images/arrow1.gif" width="10" height="11">&nbsp;
+		                            <a class ="hr" href="detail.asp?id=1411&ig=111&nd=1"><span style="text-decoration: none">Phản ánh khó khăn, kiến nghị của Doanh nghiệp&nbsp;(24/11/2017)</span></a></td>
+								</tr>
+								 
+
+							</table>
+						</div>
+						 
+
+				</td>
+		</tr>
+		</table>
+		
+		</br>
+</div>	
+    </td>
+    <td class="leftpad">
+    		<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>HÌNH NỔI BẬT</title>
+</head>
+
+<body>
+<table width="206" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="206"><table width="206" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="3" class="rightm">HỘI VIÊN MỚI</td>
+          </tr>
+          <tr>
+            <td width="9" class="ctitle2"></td>
+            <td width="196" rowspan="2">
+            
+            
+
+	<MARQUEE id="marqueelupTVqc"  
+    style=" HEIGHT: 180px" onmouseout="marqueelupTVqc.start()" scrollAmount="3" scrollDelay="35" direction="up" height =180><div align="center">
+	<table border="0" width="206" id="table1" cellpadding="0" style="border-collapse: collapse" height =180>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10166'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/BIEN RANG.jpg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10166' onmouseover="marqueelupTVqc.stop()" class ="hr">Hộ Kinh doanh Nước mắm Biển Rạng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10165'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/HONG HUY.jpg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10165' onmouseover="marqueelupTVqc.stop()" class ="hr">Cơ sở Sản xuất Nước mắm Hồng Huy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10164'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/DN HAM TAN.jpg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10164' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty CP Doanh nhân Hàm Tân                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10163'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/BAO VE QB 247.png                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10163' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty TNHH DV Bảo vệ QB - 247                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10162'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/QC DUYEN.png                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10162' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty TNHH TM DV và Quảng cáo Duyên                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10161'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/HA LE.png                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10161' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty TNHH Sản xuất & TM Nội thất Hà Lê                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10160'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/TRUE SERVICE MARKETING.jpg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10160' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty TNHH True Service Marketing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10159'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/LUOI VIET.jpg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10159' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty TNHH Sản xuất TM Lưới việt Bình Thuận                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10158'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/CUONG THINH.jpg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10158' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty TNHH Công nghệ Viễn Thông Cường Thịnh                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+							<tr>
+								<td align =center height =25 width =90><a href='dehoivien.asp?id=10157'><img onmouseover="marqueelupTVqc.stop()" border="0" src="hinh/INOX HANG.png                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       " width="80"></a></td>
+							<td align =center width =116 valign =top><a href='dehoivien.asp?id=10157' onmouseover="marqueelupTVqc.stop()" class ="hr">Công ty TNHH TM DV Sản xuất Inox Hằng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   </a></td>
+							</tr>
+							<tr>
+							<td colspan =2 height =10>
+							<hr color =#E6E6E6 size =1>
+							</td>
+							</tr>
+								
+	</table>
+</div></MARQUEE>
+
+            </td>
+            <td width="1" class="ctitle3"></td>
+          </tr>
+          <tr>
+            <td class="ctitle2"></td>
+            <td class="ctitle3"><img src="images/ctitle3.jpg" width="6" height="14"></td>
+          </tr>
+          <tr>
+            <td height="2" class="ctitle4"></td>
+            <td class="ctitle5"></td>
+            <td class="ctitle6"></td>
+          </tr>
+        </table></td>
+      </tr>
+            <tr>
+        <td><table width="206" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="3" class="rightm">ĐĂNG NHẬP</td>
+          </tr>
+          <tr>
+            <td width="6" height="87" class="ctitle2"></td>
+            <td width =95%>
+            <html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Tên đăng nhập</title>
+</head>
+<body>
+<p align="center"><font color="#000080"><b></b></font>
+<form method="POST" action="default.asp" name="fpas">
+<div align="center">
+	<table border="0" width="100%" id="table1" cellpadding="0" style="border-collapse: collapse">
+		<tr>
+			<td height="31" width="17%">&nbsp;Tên :</td> 
+			<td width="22%">
+			<input type="text" name="txtUser"  id =txtUser size="9"></td>
+		</tr>
+		<tr>
+			<td height="27" width="17%">&nbsp;Mật khẩu:&nbsp;</td>
+			<td width="22%">
+			<input type=password  name="txtPWD" id =txtPWD size="9"></td>
+		</tr>
+		<tr>
+			<td colspan =2>
+			<p align="center">&nbsp;
+			<input type="button" value="&#272;&#259;ng nh&#7853;p" onclick=On_Submit() style="font-family: Tahoma; font-weight: bold">&nbsp;
+
+			</td>
+		</tr>
+	</table>
+</div>
+</form>
+
+<script language = "javascript">
+<!--
+function On_Submit()
+	{
+	var user, pass;
+		user  = document.fpas.txtUser.value;
+		pass  = document.fpas.txtPWD.value;
+	if(user == '' || pass =='')
+	{
+		alert("Ten hoac mat khau khong the bo trong !");
+		document.fpas.txtUser.focus();
+		return;
+	}
+	document.fpas.submit();		
+}
+//-->
+<!--
+function On_Reset()
+{
+	document.fpas.reset();		
+}
+//-->
+</Script>
+</body>
+
+</html>
+            </td>
+            <td width="7" class="ctitle3"></td>
+          </tr>
+          <tr>
+            <td height="2" class="ctitle4"></td>
+            <td class="ctitle5"></td>
+            <td class="ctitle6"></td>
+          </tr>
+        </table></td>
+      </tr>
+        <tr>
+        <td><table width="206" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="3" class="rightm">HÌNH NỔI BẬT</td>
+            </tr>
+          <tr>
+            <td width="6" height="87" class="ctitle2"></td>
+            <td class="img"><html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+</head>
+
+<body>
+
+
+<div align="center">
+	<table border="0" width="200" id="table1" cellpadding="0" style="border-collapse: collapse">
+		
+		<tr>
+			<td>
+			<p align="center">
+			<A href="degalary.asp?ig=1459" >
+			<IMG id=ti2 style="dd" src="hinh/IMG_1842.JPG" width =190 border =0 title ="Hội thảo “Giải pháp cấp bách và định hướng chiến lược phát triển bền vững của DN ở Bình Thuận, Hậu Covid-19""> 
+             </A>
+			</td>
+			
+		</tr>
+		<tr>
+			<td height =25 align =center><div align =center><b><A href="degalary.asp?ig=1459" class =hr>Hội thảo “Giải pháp cấp bách và định hướng chiến lược phát triển bền vững của DN ở Bình Thuận, Hậu Covid-19"</A></b> </div></td>
+		</tr>
+
+		<tr>
+			<td>
+			<p align="center">
+			<A href="degalary.asp?ig=1434" >
+			<IMG id=ti2 style="dd" src="hinh/25_3.jpg" width =190 border =0 title ="Đại hội Nhiệm kỳ IV (2019-2024)"> 
+             </A>
+			</td>
+			
+		</tr>
+		<tr>
+			<td height =25 align =center><div align =center><b><A href="degalary.asp?ig=1434" class =hr>Đại hội Nhiệm kỳ IV (2019-2024)</A></b> </div></td>
+		</tr>
+
+		<tr>
+			<td>
+			<p align="center">
+			<A href="degalary.asp?ig=1426" >
+			<IMG id=ti2 style="dd" src="hinh/image-02.jpg" width =190 border =0 title ="Tổng kết HHDN năm 2017"> 
+             </A>
+			</td>
+			
+		</tr>
+		<tr>
+			<td height =25 align =center><div align =center><b><A href="degalary.asp?ig=1426" class =hr>Tổng kết HHDN năm 2017</A></b> </div></td>
+		</tr>
+
+	</table>
+</div>
+
+</body>
+
+</html>
+            </td>
+            <td width="7" class="ctitle3"></td>
+            </tr>
+             <tr>
+            <td height="2" class="ctitle4"></td>
+            <td class="ctitle5"></td>
+            <td class="ctitle6"></td>
+          </tr>
+
+            </table></td>
+      </tr>
+       
+
+      <tr>
+        <td><table width="206" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="3" class="rightm">LOGO HỘI VIÊN</td>
+          </tr>
+          <tr>
+            <td width="6" height="87" class="ctitle2"></td>
+            <td><table width="100%" cellspacing="0" cellpadding="0">
+
+								 <tr>
+					                <td class="img"><a target="_blank" href="http://matkinhedenbinhthuan.vn                                                                                                                                                                          "><img border="0" src="hinh/EDEN_1.png                                                                                                                                                                                              " width="90"></a></td>
+					                
+					                <td class="img"><a target="_blank" href="http://www.anphuochospital.com/xll-vi/gen_a.aspx                                                                                                                                                        "><img border="0" src="hinh/LOGOAN PHUOC_1.JPG                                                                                                                                                                                      " width="90"></a></td>
+					              </tr>
+								
+								 <tr>
+					                <td class="img"><a target="_blank" href="http://www.doanhnghiepbinhthuan.vn/                                                                                                                                                                     "><img border="0" src="hinh/2 XANG DAU_1.jpg                                                                                                                                                                                        " width="90"></a></td>
+					                
+					                <td class="img"><a target="_blank" href="http://hoangquanbinhthuan.com.vn                                                                                                                                                                        "><img border="0" src="hinh/HOANG QUAN_1.jpg                                                                                                                                                                                        " width="90"></a></td>
+					              </tr>
+								
+								 <tr>
+					                <td class="img"><a target="_blank" href="http://www.vnpt.com.vn/                                                                                                                                                                                 "><img border="0" src="hinh/lap-mang-vnpt-tai-quan-1-2-3-4-5-6-7-8-9-10837.gif                                                                                                                                                      " width="90"></a></td>
+					                
+					                <td class="img"><a target="_blank" href="http://www.caybangphanthiet.com.vn/                                                                                                                                                                     "><img border="0" src="hinh/CAY BANG_1.jpg                                                                                                                                                                                          " width="90"></a></td>
+					              </tr>
+								
+								 <tr>
+					                <td class="img"><a target="_blank" href="http://www.baoviet.com.vn/insurance/bvvn.asp                                                                                                                                                            "><img border="0" src="hinh/logo-bao-hiem-ha-noi1-300x72.jpg                                                                                                                                                                        " width="90"></a></td>
+					                
+					                <td class="img"><a target="_blank" href="http://www.baoviet.com.vn/Trang-chu                                                                                                                                                                     "><img border="0" src="hinh/baoviet.jpg                                                                                                                                                                                             " width="90"></a></td>
+					              </tr>
+								
+								 <tr>
+					                <td class="img"><a target="_blank" href="http://namsaogroup.com/                                                                                                                                                                                 "><img border="0" src="hinh/5 SAO_1.png                                                                                                                                                                                             " width="90"></a></td>
+					                
+					                <td class="img"><a target="_blank" href="http://doanhnghiepbinhthuan.vn                                                                                                                                                                          "><img border="0" src="hinh/inbt.jpg                                                                                                                                                                                                " width="90"></a></td>
+					              </tr>
+								
+								 <tr>
+					                <td class="img"><a target="_blank" href="http://trungngaphanthiet.com                                                                                                                                                                            "><img border="0" src="hinh/Trung Nga.jpg                                                                                                                                                                                           " width="90"></a></td>
+					                
+					                <td class="img"><a target="_blank" href="http://www.poshanuresort.com.vn                                                                                                                                                                         "><img border="0" src="hinh/POSHANU.png                                                                                                                                                                                             " width="90"></a></td>
+					              </tr>
+								
+								 <tr>
+					                <td class="img"><a target="_blank" href="http://www.tinhthanh.vn                                                                                                                                                                                 "><img border="0" src="hinh/tt.jpg                                                                                                                                                                                                  " width="90"></a></td>
+					                             
+			
+              </table></td>
+            <td width="7" class="ctitle3"></td>
+          </tr>
+          <tr>
+            <td height="2" class="ctitle4"></td>
+            <td class="ctitle5"></td>
+            <td class="ctitle6"></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><table width="206" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="3" class="rightm">THỐNG KÊ WEBSITE</td>
+            </tr>
+          <tr>
+            <td width="6" height="87" class="ctitle2"></td>
+            <td class="img" width =206>
+            <p align="center">Đang trực tuyến: <b><font size="2" color="#FF0000"> 187 </font></b>
+			</br>
+			 <p align="center">Lượt truy cập:
+						 <html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>dem truy cap</title>
+</head>
+
+<body>
+
+
+</body>
+</html>
+<b><font color='#FF0000' face ='Arial' style='font-size: 12pt'> 4995051</font></b>
+            
+            </td>
+            <td width="7" class="ctitle3"></td>
+            </tr>
+             <tr>
+            <td height="2" class="ctitle4"></td>
+            <td class="ctitle5"></td>
+            <td class="ctitle6"></td>
+          </tr>
+
+            </table></td>
+      </tr>
+
+    </table>
+</body>
+
+</html>
+
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+   			<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Bản quyền thuộc Hội Doanh nghiệp</title>
+</head>
+
+<body>
+<table width="100%" cellspacing="0" cellpadding="0">
+      <tr>
+        <td class="fo1"></td>
+        <td class="fo2">
+        	<strong>HIỆP HỘI DOANH NGHIỆP BÌNH THUẬN</strong>.<br> 
+            <strong>Địa chỉ:</strong> 282 Nguyễn Hội - Tp. Phan Thiết - tỉnh Bình 
+			Thuận<br> 
+            <strong>Điện thoại</strong>: (062) 3831516 <br> 
+            <strong>Email:</strong> 
+			<a href="mailto:vphiephoi@gmail.com" class =hr>
+			<span style="text-decoration: none">vphiephoi@gmail.com</span></a>, 
+			Website: <a href="http://www.doanhnghiepbinhthuan.vn" class =hr>
+			www.doanhnghiepbinhthuan.vn</a> <br> 
+            <a target="_blank" href="http://www.tinhthanh.com" class =hr>
+			<span style="text-decoration: none">Thiết kế website bởi Công ty TNHH Giải pháp Trực tuyến<strong> 
+			Tính Thành</span></a></strong>
+            - Mobile: <strong>0917.668833</strong>
+        </td>
+        <td class="fo3"></td>
+      </tr>
+    </table>
+</body>
+
+</html>
+
+    </td>
+  </tr>
+</table>
+</body>
+</html>
